@@ -1,9 +1,9 @@
 jump to section:
 
 - [wallets (51)](#wallets)
-- [networks (242)](#networks)
-- [exchanges (28)](#exchanges)
-- [tokens (1842)](#tokens)
+- [networks (244)](#networks)
+- [exchanges (30)](#exchanges)
+- [tokens (1843)](#tokens)
 
 ### Wallets
 
@@ -307,6 +307,8 @@ jump to section:
 | pulsechain                  | Pulsechain                      | ✅      | ✅   | ✅         |
 | monad-testnet               | Monad Testnet                   | ✅      | ✅   | ✅         |
 | citrea                      | Citrea                          | ✅      | ✅   | ✅         |
+| fluent                      | Fluent                          | ✅      | ✅   | ✅         |
+| robinhood                   | Robinhood                       | ✅      | ✅   | ✅         |
 
 ### Exchanges
 
@@ -321,6 +323,7 @@ jump to section:
 | btcturk      | BTC Turk     | cex  | ✅      | ✅   | ✅         |
 | bybit        | Bybit        | cex  | ✅      | ✅   | ✅         |
 | coinbase     | Coinbase     | dex  | ✅      | ✅   | ✅         |
+| coinex       | CoinEx       | cex  | ✅      | ✅   | ✅         |
 | cowswap      | Cow Swap     | dex  | ✅      | ✅   | ✅         |
 | crypto-com   | Crypto.com   | cex  | ✅      | ✅   | ✅         |
 | gate-io      | Gate Io      | cex  | ✅      | ✅   | ✅         |
@@ -340,6 +343,7 @@ jump to section:
 | paradex      | Paradex      | dex  | ✅      | ✅   | ✅         |
 | bitget       | Bitget       | cex  | ✅      | ✅   | ✅         |
 | hyperliquid  | Hyperliquid  | dex  | ✅      | ✅   | ✅         |
+| robinhood    | Robinhood    | cex  | ✅      | ✅   | ✅         |
 
 ### Tokens
 
@@ -983,6 +987,7 @@ jump to section:
 | CVI                                    | govi        | ✅      | ✅   | ✅         |
 | Göztepe S.K. Fan Token                 | goz         | ✅      | ❌   | ✅         |
 | Grai                                   | grai        | ✅      | ✅   | ✅         |
+| Gram                                   | gram        | ✅      | ✅   | ✅         |
 | Granary                                | grain       | ✅      | ✅   | ✅         |
 | GraphLinq Protocol                     | glq         | ✅      | ✅   | ✅         |
 | Graviton                               | grav        | ✅      | ✅   | ✅         |

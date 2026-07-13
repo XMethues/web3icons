@@ -12,6 +12,7 @@ const dynamicIconImports = {
   ExchangeBtcturk: () => import('./dist/icons/exchanges/ExchangeBtcturk.js'),
   ExchangeBybit: () => import('./dist/icons/exchanges/ExchangeBybit.js'),
   ExchangeCoinbase: () => import('./dist/icons/exchanges/ExchangeCoinbase.js'),
+  ExchangeCoinex: () => import('./dist/icons/exchanges/ExchangeCoinex.js'),
   ExchangeCowswap: () => import('./dist/icons/exchanges/ExchangeCowswap.js'),
   ExchangeCryptoCom: () =>
     import('./dist/icons/exchanges/ExchangeCryptoCom.js'),
@@ -28,6 +29,8 @@ const dynamicIconImports = {
   ExchangeParadex: () => import('./dist/icons/exchanges/ExchangeParadex.js'),
   ExchangeParaSwap: () => import('./dist/icons/exchanges/ExchangeParaSwap.js'),
   ExchangeParibu: () => import('./dist/icons/exchanges/ExchangeParibu.js'),
+  ExchangeRobinhood: () =>
+    import('./dist/icons/exchanges/ExchangeRobinhood.js'),
   ExchangeSushiswap: () =>
     import('./dist/icons/exchanges/ExchangeSushiswap.js'),
   ExchangeSwissborg: () =>
@@ -126,6 +129,7 @@ const dynamicIconImports = {
   NetworkFlowTestnet: () =>
     import('./dist/icons/networks/NetworkFlowTestnet.js'),
   NetworkFluence: () => import('./dist/icons/networks/NetworkFluence.js'),
+  NetworkFluent: () => import('./dist/icons/networks/NetworkFluent.js'),
   NetworkFraxtal: () => import('./dist/icons/networks/NetworkFraxtal.js'),
   NetworkFuel: () => import('./dist/icons/networks/NetworkFuel.js'),
   NetworkFuse: () => import('./dist/icons/networks/NetworkFuse.js'),
@@ -248,6 +252,7 @@ const dynamicIconImports = {
   NetworkRari: () => import('./dist/icons/networks/NetworkRari.js'),
   NetworkRei: () => import('./dist/icons/networks/NetworkRei.js'),
   NetworkReya: () => import('./dist/icons/networks/NetworkReya.js'),
+  NetworkRobinhood: () => import('./dist/icons/networks/NetworkRobinhood.js'),
   NetworkRollux: () => import('./dist/icons/networks/NetworkRollux.js'),
   NetworkRonin: () => import('./dist/icons/networks/NetworkRonin.js'),
   NetworkRootstock: () => import('./dist/icons/networks/NetworkRootstock.js'),
@@ -938,6 +943,7 @@ const dynamicIconImports = {
   TokenGRAI: () => import('./dist/icons/tokens/TokenGRAI.js'),
   TokenGRAIL: () => import('./dist/icons/tokens/TokenGRAIL.js'),
   TokenGRAIN: () => import('./dist/icons/tokens/TokenGRAIN.js'),
+  TokenGRAM: () => import('./dist/icons/tokens/TokenGRAM.js'),
   TokenGRAV: () => import('./dist/icons/tokens/TokenGRAV.js'),
   TokenGRC: () => import('./dist/icons/tokens/TokenGRC.js'),
   TokenGRG: () => import('./dist/icons/tokens/TokenGRG.js'),
